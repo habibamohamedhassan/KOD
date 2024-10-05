@@ -3,4 +3,4 @@
                                         Starting Execution: '1 out of 1' test cases in the current suite                                        
                                                  Test Method: 'TestCases.HomePageTests.getTitle'                                                 
 ------------------------------------------------------------------------------------------------------------------------------------------------
-[0
+[0m

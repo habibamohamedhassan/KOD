@@ -141,6 +141,10 @@ public class Home {
         chooseDeliveryAreaBtn.click();
     }
 
+    public void test(){
+        
+    }
+
 
 
 }
