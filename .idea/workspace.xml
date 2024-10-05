@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e66c94a2-8826-4941-b87c-64a34062cd7c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,30 +37,30 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.Home.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReadPropertyFile.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;TestNG./Users/habibagalal/Test/Koueider-woosonic/testng.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.HomePage.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.HomePage.getTitle.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.HomePageTests.getTitle (1).executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.HomePageTests.getTitle.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.SingleCategoryPageTests.add_single_product_to_cart (1).executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.SingleCategoryPageTests.add_single_product_to_cart.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/habibagalal/Test/Koueider-woosonic/src/main/java/org/example/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Home.executor": "Run",
+    "Application.ReadPropertyFile.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG./Users/habibagalal/Test/Koueider-woosonic/testng.xml.executor": "Run",
+    "TestNG.HomePage.executor": "Run",
+    "TestNG.HomePage.getTitle.executor": "Run",
+    "TestNG.HomePageTests.getTitle (1).executor": "Run",
+    "TestNG.HomePageTests.getTitle.executor": "Run",
+    "TestNG.SingleCategoryPageTests.add_single_product_to_cart (1).executor": "Run",
+    "TestNG.SingleCategoryPageTests.add_single_product_to_cart.executor": "Run",
+    "git-widget-placeholder": "Merging main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/habibagalal/Test/Koueider-woosonic/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/Configrations" />
