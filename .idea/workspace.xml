@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e66c94a2-8826-4941-b87c-64a34062cd7c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/2024-09-29_15-01-26-854_AllureReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/2024-09-30_00-44-51-843_AllureReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/2024-09-30_01-41-49-224_AllureReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/2024-09-30_01-45-20-167_AllureReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/2024-09-30_01-46-41-299_AllureReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/2024-09-30_02-00-09-385_AllureReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/2024-09-30_02-01-22-151_AllureReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/2024-10-01_17-17-49-369_AllureReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/2024-10-01_17-24-48-426_AllureReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/2024-10-01_23-05-33-671_AllureReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/2024-10-01_23-09-53-957_AllureReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/2024-10-01_23-15-11-296_AllureReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/2024-10-01_23-23-00-666_AllureReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/2024-10-01_23-33-37-227_AllureReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/2024-10-01_23-46-46-660_AllureReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/2024-10-02_00-13-19-825_AllureReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/2024-10-02_00-15-05-575_AllureReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/2024-10-02_00-35-45-014_AllureReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/2024-10-02_00-38-32-840_AllureReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/2024-10-02_00-41-32-535_AllureReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/2024-10-02_00-45-34-993_AllureReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/2024-10-02_00-50-36-889_AllureReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/2024-10-02_00-53-23-725_AllureReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/2024-10-02_23-37-32-737_AllureReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/2024-10-02_23-48-14-203_AllureReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/07e4c641-11f9-4fd4-98d1-5e2c7c261340-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0d2ede02-9709-4147-a800-c92e5f24aedc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1865a738-c2cb-4ba9-bbd5-df07c10c20df-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1b06897e-1c7d-4083-b202-6c1230fe07d1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/25f790a8-1f45-4d11-8565-e0a784bf1444-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3fb77757-a3d9-4bb5-8d62-d7f84634a14c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/43dc489d-7255-4508-980a-0e73ffa10b95-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7781bdb3-656c-4daf-8d61-9dbdaf685da6-attachment.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/83805ac8-6eca-4efe-9081-c77497f26298-attachment.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b6fe731b-d74f-46a4-9543-edb3f25a1773-attachment.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/eb0bc86d-ba5d-476f-bc52-3fb7fbc60a48-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/environment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f537f50f-97ca-4a42-8eb8-5b6b404be1b9-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fa29cd38-c26c-4cfa-b4a3-86cddbfdfb7c-attachment.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/execution-summary/ExecutionSummaryReport_02-10-2024_23-47-58-0785-PM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generate_allure_report.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/CartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/CheckoutBasicInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/QuickViewPopUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/SingleCategoryPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/SingleProductPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/SummeryCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/properties/TestNG.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/properties/cucumber.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/properties/customWebdriverCapabilities.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/properties/default/TestNG.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/properties/default/cucumber.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/properties/default/customWebdriverCapabilities.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/properties/default/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/properties/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Base/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestCases/HomePageTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestCases/SingleCategoryPageTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Utilities/ReadPropertyFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/ConfigFiles/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/META-INF/services/io.qameta.allure.listener.ContainerLifecycleListener" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/META-INF/services/io.qameta.allure.listener.FixtureLifecycleListener" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/META-INF/services/io.qameta.allure.listener.StepLifecycleListener" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/META-INF/services/io.qameta.allure.listener.TestLifecycleListener" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/META-INF/services/org.testng.ITestNGListener" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testDataFiles/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" userTempatePath="" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2mQcffnfqDDzVBpw9gxiLesCsOU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Home.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReadPropertyFile.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG./Users/habibagalal/Test/Koueider-woosonic/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HomePage.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HomePage.getTitle.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HomePageTests.getTitle (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HomePageTests.getTitle.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SingleCategoryPageTests.add_single_product_to_cart (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SingleCategoryPageTests.add_single_product_to_cart.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/habibagalal/Test/Koueider-woosonic/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/Configrations" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.HomePageTests.getTitle">
+    <configuration name="Home" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pages.Home" />
+      <module name="Koueider-woosonic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadPropertyFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestPackage.TestCases.Base.Utilities.ReadPropertyFile" />
+      <module name="Koueider-woosonic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestPackage.TestCases.Base.Utilities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTests.getTitle (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Koueider-woosonic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestPackage.TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestPackage.TestCases" />
+      <option name="MAIN_CLASS_NAME" value="TestPackage.TestCases.HomePageTests" />
+      <option name="METHOD_NAME" value="getTitle" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTests.getTitle" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Koueider-woosonic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCases" />
+      <option name="MAIN_CLASS_NAME" value="TestCases.HomePageTests" />
+      <option name="METHOD_NAME" value="getTitle" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleCategoryPageTests.add_single_product_to_cart (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Koueider-woosonic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestPackage.TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestPackage.TestCases" />
+      <option name="MAIN_CLASS_NAME" value="TestPackage.TestCases.SingleCategoryPageTests" />
+      <option name="METHOD_NAME" value="add_single_product_to_cart" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.HomePageTests.getTitle" />
+        <item itemvalue="TestNG.HomePageTests.getTitle (1)" />
+        <item itemvalue="Application.ReadPropertyFile" />
+        <item itemvalue="Application.Home" />
+        <item itemvalue="TestNG.SingleCategoryPageTests.add_single_product_to_cart (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e66c94a2-8826-4941-b87c-64a34062cd7c" name="Changes" comment="" />
+      <created>1727012349624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727012349624</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Pages/Home.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Pages/Home.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/TestCases/HomePageTests.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Pages/Home.java</url>
+          <line>129</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Pages/Home.java</url>
+          <line>83</line>
+          <properties class="Pages.Home" method="selectSpecificCity">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Pages/Home.java</url>
+          <line>136</line>
+          <properties class="Pages.Home" method="choseRandomDeliveryBranch">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
